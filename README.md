@@ -41,11 +41,14 @@ Welcome to my GitHub profile! I'm a results-driven developer with 4+ years of ex
 
 -   Currently working as a **Backend Developer** at **Pixels Magic Asia** 🌏, building cutting-edge content management systems using **Laravel** and **Strapi**, and optimizing cloud deployments on **AWS** ☁️.
 
-### 🤝 **Let's Connect!**
+### 🤝 **Connect with Me!**
 
--   🌐 Portfolio: [tharhtoo.netlify.app](https://tharhtoo.netlify.app)
--   💼 LinkedIn: [linkedin.com/in/etharrra](https://linkedin.com/in/etharrra)
--   🐙 GitHub: [github.com/etharrra](https://github.com/etharrra)
+-   🌍 **Website:** [tharhtoo.netlify.app](https://tharhtoo.netlify.app) — Check out my portfolio!
+-   💼 **LinkedIn:** [linkedin.com/in/etharrra](https://linkedin.com/in/etharrra) — Let’s grow our network!
+-   🐙 **GitHub:** [github.com/etharrra](https://github.com/etharrra) — See my code in action.
+-   ✉️ **Email:** iterdare.2977@gmail.com — Let’s chat!
+
+Always excited to meet fellow developers, tech enthusiasts, and collaborators! 💬
 
 ---
 
