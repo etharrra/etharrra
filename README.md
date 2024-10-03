@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a results-driven developer with 4+ years of experience in crafting dynamic, scalable, and efficient web applications. I specialize in **PHP**, **JavaScript**, **Node.js**, and **Go** and I love working with databases like **MySQL**, **Redis**, and **MongoDB**. My expertise includes frameworks such as **Laravel**, **Gin**, **Yii**, and **Express.js**, helping businesses scale and enhance their user experience 🚀.
 
-![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etharrra&layout=compact&theme=onedark)
 
 ---
 
