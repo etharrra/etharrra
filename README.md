@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Thar Htoo**
 
-<!--
-**etharrra/etharrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Web Engineer | Backend Magician |  Cloud Conqueror 🌩️**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a results-driven developer with 4+ years of experience in crafting dynamic, scalable, and efficient web applications. I specialize in **PHP**, **JavaScript**, **Node.js**, and **Go** and I love working with databases like **MySQL**, **Redis**, and **MongoDB**. My expertise includes frameworks such as **Laravel**, **Gin**, **Yii**, and **Express.js**, helping businesses scale and enhance their user experience 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Code GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
+### 🛠 **Tech Stack:**
+
+-   💻 **Languages:** PHP, JavaScript, SQL, Go
+-   🖥️ **Frameworks:** Laravel, Symfony, Yii, PrestaShop, Node.js, Express.js, React.js, Vue.js, Gin
+-   🗄️ **Databases:** MySQL, MongoDB, Redis, PostgreSQL, SQLite
+-   🛠️ **APIs:** REST, GraphQL
+-   ☁️ **Cloud Computing:** AWS (Secure Deployments, IAM, S3, Lambda, WAF)
+-   🧩 **Other:** Web scraping, Automation, Shell scripting, Git
+
+---
+
+### 🚀 **Key Projects:**
+
+-   **🛒 MySkinRecipes E-commerce Platform:**
+    Developed custom modules for seamless payment, tax, and shipping functionalities, enhancing the user experience on an **e-commerce platform**.
+    [Learn more](https://www.myskinrecipes.com/shop/en/) 🛍️
+
+-   **📊 CSV Upload Project (1M+ Records):**
+    Built a high-performance **Laravel** app to handle massive CSV uploads (1M+ records) with real-time progress using **WebSocket**.
+    [Learn more](https://github.com/etharrra/csv-upload) 🕸️
+
+-   **🎮 Japan Prefecture Game:**
+    Created an engaging game for a travel fair, using **JavaScript** and **Laravel** for interactive features.
+    [Learn more](https://japanbyjapan.com/food/campaign/) 💫
+
+---
+
+![Laptop Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+### 🌟 **What I'm Working On:**
+
+-   Currently working as a **Backend Developer** at **Pixels Magic Asia** 🌏, building cutting-edge content management systems using **Laravel** and **Strapi**, and optimizing cloud deployments on **AWS** ☁️.
+
+### 🤝 **Let's Connect!**
+
+-   🌐 Portfolio: [tharhtoo.netlify.app](https://tharhtoo.netlify.app)
+-   💼 LinkedIn: [linkedin.com/in/etharrra](https://linkedin.com/in/etharrra)
+-   🐙 GitHub: [github.com/etharrra](https://github.com/etharrra)
+
+---
+
+**Thanks for visiting!** Let's collaborate and build something awesome together! 🎉
